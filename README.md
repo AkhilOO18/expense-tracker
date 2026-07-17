@@ -1,4 +1,5 @@
 # Ledger — Expense Tracker
+🔗 **Live demo:** [expense-tracker-zeta-two-92.vercel.app](https://expense-tracker-zeta-two-92.vercel.app)
 
 A full-stack expense tracker: track income and expenses, and visualize your
 spending with charts.
